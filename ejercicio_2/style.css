@@ -1,1 +1,15 @@
-/* Aquí va el css */
+ h1 {
+     font-size: 48px;
+ }
+
+ ul {
+     color: #777777;
+ }
+
+ ol .li {
+     padding-left: 24px;
+ }
+
+ #azul {
+     background-color: aquamarine;
+ }
